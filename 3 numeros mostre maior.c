@@ -31,7 +31,6 @@ if ( num1>num2 && num1>num3 ) {
           
     }
 
-
 printf ("O maior numero digitado eh %d \n", maior);
 
 printf ("\n Pressione qqr tecla para encerrar \n ");
